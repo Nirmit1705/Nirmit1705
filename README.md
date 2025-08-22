@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a passionate Web Developer<br>🤝 I’m ever ready to do collaborations<br>🌱 I’m always learning about the new skills<br>⚡ I'm always ready to code
+🔭 I’m a passionate Web Developer.<br>🤝 I’m ever ready to do collaborations.<br>🌱 I’m always learning about the new skills.<br>⚡ I'm always ready to code.
 
 
 ## 🌐 Socials:
